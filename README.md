@@ -1,9 +1,9 @@
 
-# 🔍 AI-Powered Code Search System
+# 🔍 AI-Powered Code Search System (Language Agnostic)
 
-**Transform how you navigate codebases with intelligent, natural language search that actually understands your code.**
+**Transform how you navigate codebases with intelligent, natural language search that actually understands your code, regardless of the (functional) programming language.**
 
-This system revolutionizes code exploration by combining AI-powered semantic understanding with lightning-fast vector search. Instead of hunting through files with keyword searches, ask questions like *"How do we handle user authentication?"* or *"Show me database connection patterns"* and get precise, context-aware results across your entire codebase.
+This system revolutionizes code exploration by combining AI-powered semantic understanding with lightning-fast vector search. Instead of hunting through files with keyword searches, you can ask questions like "How do we handle user authentication?" or "Show me database connection patterns" and get precise, context-aware results across your entire codebase. Designed to be **language agnostic**, it intelligently processes and extracts structured components like classes, interfaces, enums, and their methods from various programming languages.
 
 Built with Clean Architecture principles, the system provides multi-dimensional search across **files**, **classes/interfaces**, and **individual methods**, each optimized with specialized AI-generated embeddings for maximum relevance and speed.
 
