@@ -1,0 +1,17 @@
+{
+    "vector_store_path": "./vectordb_workspace",
+    "embedding_model": "text-embedding-3-large",
+    "ai_model": "gpt-4o",
+    "similarity_threshold": 0.1,
+    "max_search_results": 10,
+    "supported_extensions": [
+        ".py",
+        ".cs",
+        ".ts",
+        ".js",
+        ".java",
+        ".cpp"
+    ],
+    "batch_size": 100,
+    "cache_size": 1000
+}
